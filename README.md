@@ -3,3 +3,5 @@ ASP.NET Core Web API: Powerful framework by Microsoft for RESTful APIs, crucial 
 
 ## Day 1
 -  The problem
+## Day 2 
+- The solution
