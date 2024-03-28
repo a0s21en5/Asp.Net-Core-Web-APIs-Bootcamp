@@ -14,3 +14,6 @@ ASP.NET Core Web API: Powerful framework by Microsoft for RESTful APIs, crucial 
 
 ## Day 5
 - What is HTTP and why do we need to know about HTTP?
+
+## Day 6
+- HTTP Request and HTTP Response with its components
