@@ -1,1 +1,9 @@
+# What is an HTTP Request and its components
 
+An HTTP request is a message sent from your device to a website's server, asking for specific information or actions, like loading a webpage or submitting a form.
+
+- URL
+- Verb (method)
+- Header(s)
+- Body
+- Data
