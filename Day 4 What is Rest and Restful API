@@ -1,7 +1,10 @@
-# REST 
+# REST
 
-- REST stands for Representation State Transfer.
+- **REST** stands for *Representational State Transfer*.
 
-REST is a combination of a couple of principles that must be followed by the Web API.
+REST is a combination of several principles that must be followed by Web APIs:
 
 - URL structure
+- HTTP verbs
+- Status codes
+- Stateless, etc.
